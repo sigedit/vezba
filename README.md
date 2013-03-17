@@ -1,4 +1,4 @@
-vezba
+﻿vezba
 =====
 
-Prakticna vezba znanja stecenog na predavanju o Git-u
+Praktična vežba znanja stečenog na predavanju o Git-u.
